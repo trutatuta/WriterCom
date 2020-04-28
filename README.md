@@ -1,2 +1,2 @@
 # WriterCom
-Website for beginner writers 
+Website for beginner writers.
